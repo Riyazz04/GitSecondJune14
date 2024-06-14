@@ -8,5 +8,11 @@ public class SecondDayGit {
 		
 		System.out.println(b);
 	}
+	
+	public static void main(String[] args) {
+		
+		SecondDayGit s = new SecondDayGit();
+		
+	}
 
 }
